@@ -1,0 +1,29 @@
+$primary_1:Magenta;
+$primary_2:Navy;
+$primary_3:Orange;
+$font_size:20px;
+$font_size2:15pxpx;
+#title1 {
+    color:$primary_1;
+    font-size: $font_size;
+}
+#title2 {
+    color: $primary_2;
+    font-size:$font_size ;
+}
+#title3 {
+    color: $primary_3;
+    font-size:$font_size ;
+}
+#button1 {
+    background-color: $primary_1;
+    font-size:$font_size2;
+}
+#button2 {
+    background-color: $primary_2;
+    font-size:$font_size2;
+}
+#button3 {
+    background-color: $primary_3;
+    font-size:$font_size2;
+}
